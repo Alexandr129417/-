@@ -11,3 +11,7 @@ print((a+b) * a)
 d = a ** b
 
 print(a+d*b)
+
+c = d/(a*b)
+
+print(c)
