@@ -7,3 +7,7 @@ print(a+b)
 print(a*b)
 
 print((a+b) * a)
+
+d = a ** b
+
+print(a+d*b)
