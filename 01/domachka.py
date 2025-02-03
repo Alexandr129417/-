@@ -1,2 +1,0 @@
-print("hellov world")
-
